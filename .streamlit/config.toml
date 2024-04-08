@@ -1,4 +1,4 @@
 [theme]
 primaryColor="#F63366"
-backgroundColor="FFFFFF"
+# backgroundColor="FFFFFF"
 secondaryBackgroundColor="#FFCC99"
