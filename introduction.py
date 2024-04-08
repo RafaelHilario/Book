@@ -9,3 +9,4 @@ def example():
         falling_speed=5,
         animation_length="infinite",
     )
+example()
