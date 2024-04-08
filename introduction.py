@@ -4,7 +4,7 @@ st.title("Introduction")
 
 def example():
     rain(
-        emoji="📔,📕,📗,📘,📙",
+        emoji="📔",
         font_size=54,
         falling_speed=5,
         animation_length="infinite",
